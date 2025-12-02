@@ -14,37 +14,34 @@
 
 ## 🛠️ My Skills
 
-<p align="center">
 ### Lenguajes de programación
 
-
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,php" />
   </a>
 </p>
 
-<p align="center">
 ### Frontend
 
-
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
 
-<p align="center">
 ### Databases
 
-
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
   
-<p align="center">
+
  ### Software y herramientas
  
-
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode" />
   </a>
