@@ -36,13 +36,23 @@
 <hr/>
 
 
-### ⚙️ GitHub Analytics
+<h3 align="center">⚙️ GitHub Analytics</h3>h3>
 
 <p align="center">
 <a href="https://github.com/javierbros11">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javierbros11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierbros11&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<hr/>
+
+<h3 align="center">🤝 Contacta conmigo</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
+  </a>
 </p>
 
 <!-- GIF FOOTER -->
