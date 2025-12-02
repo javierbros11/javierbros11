@@ -4,8 +4,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Javier Limón</a></h1>
+<h1 align="center">Hi 👋, I'm Javier/javierbros11</h1>
 <h3 align="center">Técnico de Sistemas &#127470;&#127475</h3>
 
 
