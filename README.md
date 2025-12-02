@@ -50,8 +50,9 @@
 <h3 align="center">🤝 Contacta conmigo</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev](https://www.instagram.com/javier_bros11/)">
     <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
