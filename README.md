@@ -36,7 +36,7 @@
 <hr/>
 
 
-<h3 align="center">⚙️ GitHub Analytics</h3>h3>
+<h3 align="center">⚙️ GitHub</h3>
 
 <p align="center">
 <a href="https://github.com/javierbros11">
