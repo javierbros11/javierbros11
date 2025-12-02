@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javierbros11&label=Profile%20views&color=0e75b6&style=plastic" alt="javierbros11" /> </p>
 
 
-## 💻 Tecnologías conocidas
+<h3 align="center">💻 Tecnologías conocidas</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🔍 Software y herramientas
+<h3 align="center">🔍 Software y herramientas</h3>
  
 <p align="center">
   <a href="https://skillicons.dev">
