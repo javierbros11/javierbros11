@@ -14,9 +14,8 @@
 
 ## 🛠️ My Skills
 
-### Lenguajes de programación
-
 <p align="center">
+  <h4>Lenguajes de programación</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,php" />
   </a>
