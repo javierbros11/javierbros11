@@ -12,33 +12,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javierbros11&label=Profile%20views&color=0e75b6&style=plastic" alt="javierbros11" /> </p>
 
 
-## 🛠️ My Skills
+## 💻 Tecnologías conocidas
 
 <p align="center">
   <h4>Lenguajes de programación</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,php" />
+    <img src="https://skillicons.dev/icons?i=js,py,php,html,css,mysql" />
   </a>
 </p>
 
-### Frontend
+<br/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-</p>
-
-### Databases
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
-  
-
- ### Software y herramientas
+## 🔍 Software y herramientas
  
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,7 +34,7 @@
 <br/>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/javierbros11">
