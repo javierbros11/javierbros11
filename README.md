@@ -49,7 +49,7 @@
 
 <h3 align="center">🤝 Contacta conmigo</h3>
 
-<p>
+<p align="center">
   <a href="https://workspace.google.com/gmail">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
