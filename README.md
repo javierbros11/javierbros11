@@ -51,11 +51,11 @@
 
 <p align="center">
    <a href="https://workspace.google.com/gmail">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img align="center "src="https://skillicons.dev/icons?i=gmail"/>
     <a href="https://www.linkedin.com/in/javier-limón-polo-942300243">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img align="center src="https://skillicons.dev/icons?i=linkedin"/>
       <a href="https://www.instagram.com/javier_bros11">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
+    <img align="center src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
 
@@ -64,3 +64,5 @@
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
