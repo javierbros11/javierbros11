@@ -51,16 +51,13 @@
 
 <p align="center">
   <a href="https://workspace.google.com/gmail">
-     <span style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" style="display: inline-block; vertical-align: middle;">
   </a>
   <a href="https://www.linkedin.com/in/javier-limón-polo-942300243">
-     <span style="text-decoration: none;">
-      <img  src="https://skillicons.dev/icons?i=linkedin"/>
+      <img  src="https://skillicons.dev/icons?i=linkedin" style="display: inline-block; vertical-align: middle;">
   </a>
   <a href="https://www.instagram.com/javier_bros11"">
-     <span style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" style="display: inline-block; vertical-align: middle;">
   </a>
 </p>
 
