@@ -51,11 +51,11 @@
 
 <p align="center">
   <a href="https://workspace.google.com/gmail">
-     <span style="text-decoration: none">
+     <span style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/javier-limón-polo-942300243">
-     <span style="text-decoration: none">
+     <span style="text-decoration: none;">
       <img  src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://www.instagram.com/javier_bros11"">
