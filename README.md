@@ -50,15 +50,9 @@
 <h3 align="center">🤝 Contacta conmigo</h3>
 
 <p align="center">
-  <a href="https://workspace.google.com/gmail">
-    <img src="https://skillicons.dev/icons?i=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/javier-limón-polo-942300243">
-      <img  src="https://skillicons.dev/icons?i=linkedin">
-  </a>
-  <a href="https://www.instagram.com/javier_bros11"">
-    <img src="https://skillicons.dev/icons?i=instagram">
-  </a>
+<a href="https://www.linkedin.com/in/javier-lim%C3%B3n-polo-942300243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/javier_bros11/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  
 </p>
 
 <!-- GIF FOOTER -->
@@ -66,5 +60,3 @@
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-
