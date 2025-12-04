@@ -50,13 +50,13 @@
 <h3 align="center">🤝 Contacta conmigo</h3>
 
 <p align="center">
-  <a href="https://workspace.google.com/gmail">
+  <a href="https://workspace.google.com/gmail" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/javier-limón-polo-942300243">
+  <a href="https://www.linkedin.com/in/javier-limón-polo-942300243" style="text-decoration: none">
       <img  src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://www.instagram.com/javier_bros11">
+  <a href="https://www.instagram.com/javier_bros11" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
