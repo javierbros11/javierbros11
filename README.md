@@ -50,9 +50,9 @@
 <h3 align="center">🤝 Contacta conmigo</h3>
 
 <p align="center">
-  <a href="https://workspace.google.com/gmail/">
+  <a href="https://workspace.google.com/gmail">
     <img src="https://skillicons.dev/icons?i=gmail" />
-    <a href="www.linkedin.com/in/javier-limón-polo-942300243">
+    <a href="https://www.linkedin.com/in/javier-limón-polo-942300243">
     <img src="https://skillicons.dev/icons?i=linkedin" />
       <a href="https://www.instagram.com/javier_bros11">
     <img src="https://skillicons.dev/icons?i=instagram" />
