@@ -4,7 +4,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<h1 align="center">Hi 👋, I'm Javier / javierbros11</h1>
+<h1 align="center">Hola 👋, Soy Javier / javierbros11</h1>
 
 <!-- SOBRE MÍ -->
 <h3 align="center">Actualmente soy Técnico de Sistemas N1. Me gusta escribir código, la Ciberseguridad, experimentar e innovar con nuevas ideas. Me considero una persona apasionada con muchas ganas de aprender y seguir descubriendo nuevas cosas cada día. Me encanta trabajar en equipo y ayudar en todo lo posible.</h3>
